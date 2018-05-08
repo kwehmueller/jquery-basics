@@ -1,4 +1,4 @@
-const box = document.querySelector('.box');
+//const box = document.querySelector('.box');
 //box.style.display = 'none';
 
 //jQUery('.box').hide();
